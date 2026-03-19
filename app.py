@@ -1,15 +1,14 @@
 
 import sys
 
-!pip install streamlit
+ #!pip install streamlit
 
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 
 # 1. Load the dataset
-# Note: In Colab, the path is usually '/content/Sample - Superstore.csv'
-df = pd.read_csv('/content/Sample - Superstore.csv', encoding='latin1')
+df = pd.read_csv('Sample - Superstore.csv', encoding='latin1')
 
 # 2. Preprocessing
 df['Order Date'] = pd.to_datetime(df['Order Date'])
