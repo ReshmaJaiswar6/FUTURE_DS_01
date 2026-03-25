@@ -60,7 +60,12 @@ Identified opportunities to increase profitability
 
 📁 Dataset (CSV format)
 
-📸 Dashboard Screenshots
+📸 Dashboard overview
+
+https://github.com/user-attachments/assets/3ba530aa-5941-4b70-826a-95616ddf0f22
+
+
+
 
 
 
